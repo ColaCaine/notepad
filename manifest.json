@@ -1,6 +1,6 @@
 {
-"name": "PWA Template",
-"short_name": "PWA Template",
+"name": "Notepad",
+"short_name": "Notepad",
 "start_url": "index.html",
 "display": "standalone",
 "icons": [
